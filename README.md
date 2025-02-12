@@ -1,0 +1,2 @@
+# LearnJava
+针对Java初学者或者想了解更多细节的Java开发者的学习项目
